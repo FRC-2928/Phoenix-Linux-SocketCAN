@@ -1,0 +1,14 @@
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/pi/Documents/Phoenix-Linux-SocketCAN/bin/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_dfc1c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_dfc1c.dir/build.make CMakeFiles/cmTC_dfc1c.dir/build
+gmake[1]: Entering directory '/home/pi/Documents/Phoenix-Linux-SocketCAN/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dfc1c.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_dfc1c.dir/CheckIncludeFile.c.o -c /home/pi/Documents/Phoenix-Linux-SocketCAN/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_dfc1c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dfc1c.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_dfc1c.dir/CheckIncludeFile.c.o -o cmTC_dfc1c 
+gmake[1]: Leaving directory '/home/pi/Documents/Phoenix-Linux-SocketCAN/bin/CMakeFiles/CMakeTmp'
+
+
+
